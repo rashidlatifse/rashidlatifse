@@ -282,7 +282,7 @@ A selection of products, open-source work, and engineering experiments from my G
 
 <table>
 <tr>
-<td width="20%" align="center"><b>Grow Portal</b><br/><sub>Web portal</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /></td>
+<td width="20%" align="center"><a href="https://cultviaai.com/"><b>Grow Portal</b></a><br/><sub>Cultvia AI web portal</sub><br/><br/><a href="https://cultviaai.com/"><img src="https://img.shields.io/badge/LIVE-16A34A?style=flat-square" alt="Live" /></a></td>
 <td width="20%" align="center"><a href="https://github.com/rashidlatifse/react-horizontal-scroll-indicator"><b>React Horizontal Scroll Indicator</b></a><br/><sub>React component</sub></td>
 <td width="20%" align="center"><a href="https://github.com/rashidlatifse/react-vite-ts-starter"><b>React Vite TS Starter</b></a><br/><sub>Project template</sub></td>
 <td width="20%" align="center"><a href="https://github.com/rashidlatifse/ant-design"><b>Ant Design</b></a><br/><sub>UI library</sub></td>
