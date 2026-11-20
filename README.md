@@ -97,7 +97,7 @@ My work spans **SaaS, FinTech, SportsTech, enterprise applications, and AI-power
 <img src="https://img.shields.io/badge/AI-INVOICE%20INTELLIGENCE-7C3AED?style=flat-square" alt="AI invoice intelligence" />
 <img src="https://img.shields.io/badge/FINTECH-VAT%20AUTOMATION-2563EB?style=flat-square" alt="VAT automation" />
 <img src="https://img.shields.io/badge/PLATFORM-MULTI--TENANT%20SAAS-0D9488?style=flat-square" alt="SaaS platform" />
-<img src="https://img.shields.io/badge/STATUS-LAUNCHING%20SOON-16A34A?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/STATUS-LIVE-16A34A?style=flat-square&logo=rocket&logoColor=white" alt="Status: live" />
 
 </div>
 
@@ -271,7 +271,7 @@ A selection of products, open-source work, and engineering experiments from my G
 
 <table>
 <tr>
-<td width="25%" align="center"><b>Taxura</b><br/><sub>AI tax & VAT automation SaaS</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /> <img src="https://img.shields.io/badge/FINTECH-635BFF?style=flat-square" /> <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" /></td>
+<td width="25%" align="center"><a href="https://taxura.app"><b>Taxura</b></a><br/><sub>AI tax & VAT automation SaaS</sub><br/><br/><a href="https://taxura.app"><img src="https://img.shields.io/badge/LIVE-16A34A?style=flat-square" alt="Live" /></a> <img src="https://img.shields.io/badge/FINTECH-635BFF?style=flat-square" /> <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" /></td>
 <td width="25%" align="center"><b>Pantheon AI</b><br/><sub>AI product experiment</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /> <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" /></td>
 <td width="25%" align="center"><b>NfoVision</b><br/><sub>Intelligent data & vision</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /> <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" /></td>
 <td width="25%" align="center"><b>Prelearned Chatbot</b><br/><sub>Conversational AI</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /> <img src="https://img.shields.io/badge/LLM-2563EB?style=flat-square" /></td>
