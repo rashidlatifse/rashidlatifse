@@ -97,7 +97,7 @@ My work spans **SaaS, FinTech, SportsTech, enterprise applications, and AI-power
 <img src="https://img.shields.io/badge/AI-INVOICE%20INTELLIGENCE-7C3AED?style=flat-square" alt="AI invoice intelligence" />
 <img src="https://img.shields.io/badge/FINTECH-VAT%20AUTOMATION-2563EB?style=flat-square" alt="VAT automation" />
 <img src="https://img.shields.io/badge/PLATFORM-MULTI--TENANT%20SAAS-0D9488?style=flat-square" alt="SaaS platform" />
-<img src="https://img.shields.io/badge/STATUS-IN%20ACTIVE%20DEVELOPMENT-16A34A?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/STATUS-LAUNCHING%20SOON-16A34A?style=flat-square" alt="Status" />
 
 </div>
 
@@ -260,7 +260,7 @@ A selection of products, open-source work, and engineering experiments from my G
 
 <div align="center">
 
-<a href="https://github.com/rashidlatifse/taxura"><img src="https://img.shields.io/badge/TAXURA-AI%20%7C%20FINTECH%20%7C%20SAAS-635BFF?style=for-the-badge" alt="Taxura" /></a>
+<a href="https://taxura.app"><img src="https://img.shields.io/badge/TAXURA-AI%20%7C%20FINTECH%20%7C%20SAAS-635BFF?style=for-the-badge" alt="Taxura" /></a>
 <a href="https://cultviaai.com/"><img src="https://img.shields.io/badge/CULTVIA%20AI-ARTIFICIAL%20INTELLIGENCE-7C3AED?style=for-the-badge" alt="Cultvia AI" /></a>
 
 </div>
@@ -271,10 +271,10 @@ A selection of products, open-source work, and engineering experiments from my G
 
 <table>
 <tr>
-<td width="25%" align="center"><a href="https://github.com/rashidlatifse/taxura"><b>Taxura</b></a><br/><sub>AI tax & VAT automation SaaS</sub><br/><br/><img src="https://img.shields.io/badge/FINTECH-635BFF?style=flat-square" /> <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" /></td>
-<td width="25%" align="center"><a href="https://github.com/rashidlatifse/pantheon-ai"><b>Pantheon AI</b></a><br/><sub>AI product experiment</sub><br/><br/><img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" /></td>
-<td width="25%" align="center"><a href="https://github.com/rashidlatifse/nfovision"><b>NfoVision</b></a><br/><sub>Intelligent data & vision</sub><br/><br/><img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" /></td>
-<td width="25%" align="center"><a href="https://github.com/rashidlatifse/prelearned-chatbot"><b>Prelearned Chatbot</b></a><br/><sub>Conversational AI</sub><br/><br/><img src="https://img.shields.io/badge/LLM-2563EB?style=flat-square" /></td>
+<td width="25%" align="center"><b>Taxura</b><br/><sub>AI tax & VAT automation SaaS</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /> <img src="https://img.shields.io/badge/FINTECH-635BFF?style=flat-square" /> <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" /></td>
+<td width="25%" align="center"><b>Pantheon AI</b><br/><sub>AI product experiment</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /> <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" /></td>
+<td width="25%" align="center"><b>NfoVision</b><br/><sub>Intelligent data & vision</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /> <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" /></td>
+<td width="25%" align="center"><b>Prelearned Chatbot</b><br/><sub>Conversational AI</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /> <img src="https://img.shields.io/badge/LLM-2563EB?style=flat-square" /></td>
 </tr>
 </table>
 
@@ -282,7 +282,7 @@ A selection of products, open-source work, and engineering experiments from my G
 
 <table>
 <tr>
-<td width="20%" align="center"><a href="https://github.com/rashidlatifse/grow-portal"><b>Grow Portal</b></a><br/><sub>Web portal</sub></td>
+<td width="20%" align="center"><b>Grow Portal</b><br/><sub>Web portal</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /></td>
 <td width="20%" align="center"><a href="https://github.com/rashidlatifse/react-horizontal-scroll-indicator"><b>React Horizontal Scroll Indicator</b></a><br/><sub>React component</sub></td>
 <td width="20%" align="center"><a href="https://github.com/rashidlatifse/react-vite-ts-starter"><b>React Vite TS Starter</b></a><br/><sub>Project template</sub></td>
 <td width="20%" align="center"><a href="https://github.com/rashidlatifse/ant-design"><b>Ant Design</b></a><br/><sub>UI library</sub></td>
@@ -294,12 +294,12 @@ A selection of products, open-source work, and engineering experiments from my G
 
 <table>
 <tr>
-<td width="16.6%" align="center"><a href="https://github.com/rashidlatifse/latif-atelier"><b>Latif Atelier</b></a><br/><sub>Creative studio</sub></td>
+<td width="16.6%" align="center"><b>Latif Atelier</b><br/><sub>Creative studio</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /></td>
 <td width="16.6%" align="center"><a href="https://github.com/rashidlatifse/ai-3d-portfolio"><b>AI 3D Portfolio</b></a><br/><sub>3D web experience</sub></td>
-<td width="16.6%" align="center"><a href="https://github.com/rashidlatifse/my-family-tree"><b>My Family Tree</b></a><br/><sub>Personal project</sub></td>
-<td width="16.6%" align="center"><a href="https://github.com/rashidlatifse/wistech-sync"><b>Wistech Sync</b></a><br/><sub>Sync tooling</sub></td>
-<td width="16.6%" align="center"><a href="https://github.com/rashidlatifse/estatemaster-mobile"><b>EstateMaster Mobile</b></a><br/><sub>Mobile app</sub></td>
-<td width="16.6%" align="center"><a href="https://github.com/rashidlatifse/crickslab-ballbyball-cliping"><b>Crickslab Clipping</b></a><br/><sub>Ball-by-ball video</sub></td>
+<td width="16.6%" align="center"><b>My Family Tree</b><br/><sub>Personal project</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /></td>
+<td width="16.6%" align="center"><b>Wistech Sync</b><br/><sub>Sync tooling</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /></td>
+<td width="16.6%" align="center"><b>EstateMaster Mobile</b><br/><sub>Mobile app</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /></td>
+<td width="16.6%" align="center"><b>Crickslab Clipping</b><br/><sub>Ball-by-ball video</sub><br/><br/><img src="https://img.shields.io/badge/COMING%20SOON-4B5563?style=flat-square" alt="Coming soon" /></td>
 </tr>
 </table>
 
