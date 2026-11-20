@@ -335,7 +335,18 @@ export default engineeringMindset;
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidlatifse&layout=donut&langs_count=6&exclude_repo=bokPlot,learning,association&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3157D5&text_color=C9D1D9" alt="Top languages" width="72%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidlatifse&custom_title=Languages%20in%20my%20public%20repos&layout=donut&langs_count=6&exclude_repo=bokPlot,learning,association&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3157D5&text_color=C9D1D9" alt="Top languages" width="72%" />
+
+<sub>The chart only sees public repos. Most of my backend work lives in private product repos:</sub>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 
 <br/><br/>
 
